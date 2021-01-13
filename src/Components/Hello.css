@@ -1,0 +1,13 @@
+/* Grundeinstellung */
+ *{
+	padding:0px;
+	margin:0px;
+	border:0px;
+	box-sizing:border-box;}
+
+section, aside, article, main, header, footer, nav{
+	display:block;}
+
+h1{
+  background-color: red;
+}
